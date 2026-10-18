@@ -7,7 +7,7 @@
 # Instalación (PowerShell o CMD):
 #     py -m pip install numpy scipy scikit-image matplotlib
 # Ejecución:
-#     py actividad_morfologia.py
+#     py LAB_S05_000300122_actividad_morfologia.py
 # Las imágenes de resultado se guardan en la carpeta "resultados".
 # =============================================================================
 

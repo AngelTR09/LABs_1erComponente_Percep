@@ -11,8 +11,8 @@
 #     menos de 700          -> Estado deteriorado
 #
 # Instalacion:  py -m pip install opencv-python numpy matplotlib
-# Ejecucion:    py actividad_harris_fachadas.py
-#               py actividad_harris_fachadas.py fachada1.jpg fachada2.jpg
+# Ejecucion:    py LAB_S06_000300122_actividad_harris_fachadas.py
+#               py LAB_S06_000300122_actividad_harris_fachadas.py fachada1.jpg fachada2.jpg
 # Las imagenes marcadas se guardan en la carpeta "resultados".
 # =============================================================================
 

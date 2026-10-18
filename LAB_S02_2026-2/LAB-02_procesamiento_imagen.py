@@ -5,7 +5,7 @@
 #Actividad B: Convertir la imagen a escala de grises.
 
 #CODIGO PARA EJECUTAR EL PROGRAMA:
-''' 
+r'''
 CODIGO PARA EJECUTAR EL PROGRAMA:
 
 cd "C:\Users\Angel\OneDrive\Escritorio\Percepcion Computacional\S2"
